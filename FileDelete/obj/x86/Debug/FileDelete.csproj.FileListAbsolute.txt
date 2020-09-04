@@ -1,0 +1,4 @@
+C:\Users\2004m\Desktop\FileDelete\FileDelete\bin\Debug\FileDelete.exe
+C:\Users\2004m\Desktop\FileDelete\FileDelete\bin\Debug\FileDelete.pdb
+C:\Users\2004m\Desktop\FileDelete\FileDelete\obj\x86\Debug\FileDelete.exe
+C:\Users\2004m\Desktop\FileDelete\FileDelete\obj\x86\Debug\FileDelete.pdb
